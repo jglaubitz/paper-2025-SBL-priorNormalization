@@ -8,7 +8,7 @@ article
 @article{glaubitz2025efficient,
   title={Efficient sampling for sparse Bayesian learning using hierarchical prior normalization},
   author={Glaubitz, Jan and Marzouk, Youssef},
-  journal={Journal of Computational Physics},
+  journal={arXiv preprint arXiv:2505.23753},
   year={2025},
   month={05},
 }
